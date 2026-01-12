@@ -1,0 +1,38 @@
+<svg
+  width="32"
+  height="32"
+  viewBox="0 0 32 32"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  aria-label="MG Stack logo"
+>
+  <!-- Top layer -->
+  <rect
+    x="6"
+    y="4"
+    width="20"
+    height="6"
+    rx="3"
+    fill="#2563EB"
+  />
+
+  <!-- Middle layer -->
+  <rect
+    x="4"
+    y="13"
+    width="24"
+    height="6"
+    rx="3"
+    fill="#93C5FD"
+  />
+
+  <!-- Bottom layer -->
+  <rect
+    x="6"
+    y="22"
+    width="20"
+    height="6"
+    rx="3"
+    fill="#2563EB"
+  />
+</svg>
